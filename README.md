@@ -1,1 +1,1 @@
-A dun multiplayer game based on Tron
+A fun multiplayer game based on Tron
